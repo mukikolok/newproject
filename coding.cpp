@@ -24,3 +24,4 @@ int main() {
   std::vector<double> v({1, 2, 3, 4});
   plotty::plot(v);
   plotty::show();
+//motto
